@@ -18,3 +18,5 @@ Can't spare a dollar? Fine. But if this app is actually helping you get off your
 Built with obsession. Free by choice.
 
 No excuses accepted.
+
+releases - https://github.com/evencholmes/02-GRIND/releases/tag/Apk
