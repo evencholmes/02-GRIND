@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">GRIND</string>
+    <string name="title_activity_main">GRIND</string>
+    <string name="package_name">com.jibunshidai81.grind</string>
+    <string name="custom_url_scheme">com.jibunshidai81.grind</string>
+</resources>
