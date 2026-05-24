@@ -106,6 +106,24 @@ Gradle `8.14.5` · AGP `8.3.0` · Min SDK `22` · Target SDK `34`
 
 ═══════════════════════════════════════════════════════════
 
+## 📸 Screenshots
+
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/b44f823d-ce42-48b5-ac16-c8a197ad011b" width="180"/></td>
+    <td><img src="https://github.com/user-attachments/assets/4f047495-4a61-43d5-b7a7-4438d57c6b50" width="180"/></td>
+    <td><img src="https://github.com/user-attachments/assets/5f50d055-ec08-4357-9f98-eb136d9b2fe6" width="180"/></td>
+    <td><img src="https://github.com/user-attachments/assets/b0cc6185-006f-46ab-8774-1c67d2ec2b36" width="180"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/dc7f199e-d989-46fa-9ed0-63b5eee50022" width="180"/></td>
+    <td><img src="https://github.com/user-attachments/assets/9815566c-0289-48d9-b968-1931cdc2ee10" width="180"/></td>
+    <td><img src="https://github.com/user-attachments/assets/e7e898d8-daa3-46b5-9288-ea902a4ad109" width="180"/></td>
+    <td><img src="https://github.com/user-attachments/assets/ce1c29e2-39a0-4317-a56d-e4bbc71a43b8" width="180"/></td>
+  </tr>
+</table>
+
+
 ---
 
 ## Get GRIND
